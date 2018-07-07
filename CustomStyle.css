@@ -1,0 +1,45 @@
+body
+{
+	background-image: url(smoke.jpg);
+
+}
+#login{
+	font-size: 65px;
+	font-family: Arabic typesetting;
+	border-bottom-style: ridge;
+	color: white;
+
+}
+#lg{
+	background-color: #0d0d0d;
+	min-height: 500px;
+	opacity: 0.80;
+	padding: 40px 80px 40px 80px;
+	box-shadow: -10px -10px 9px #33cc33;
+}
+.user{
+font-family: Arabic typesetting;
+font-size: 29px;
+color: white;	
+}
+#iconn{
+	background-color: #5cb85c;
+		border-color: #4cae4c;
+	color: white;
+	padding-left: 7px;
+	padding-right:5px;
+	padding-top: 6px;
+}
+#b1{
+	
+	width: 50%;
+	float:left;
+	border-radius:0px;
+}
+
+#b2{
+	
+	width: 50%;
+	float:left;
+	border-radius:0px;
+}
